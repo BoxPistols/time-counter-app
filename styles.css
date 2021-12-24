@@ -1,15 +1,3 @@
-// @mixin name($c, $bg) {
-//   color: $c;
-//   @if ($bg) {
-//     background-color: $bg;
-//   }
-// }
-
-// body {
-//   // Example: name(blue, false)
-//   @include name(white, tomato);
-// }
-
 body {
   font-family: 'Courier New', monospace;
   font-size: 14px;
